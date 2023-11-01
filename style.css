@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 1.1em;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+header {
+    background-color: rgb(160, 160, 160);
+    text-align: center;
+}
+main {
+    background-color: rgb(184, 184, 184);
+}
+footer {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 50px;
+}
+#about{
+    background-color: rgb(131, 131, 131);
+    padding: 10px 50px;
+    text-align: center;
+}
+#articles {
+    background-color:lemonchiffon;
+    padding: 10px 50px;
+}
+p {
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    margin-bottom: 20px;
+}
+h1 {
+    text-transform: uppercase;
+    color:rgb(0, 0, 0);
+    font-size: 2rem;
+    /*font-style: italic;*/
+}
+h2 {
+    font-size: 1.5rem;
+    /*text-decoration: overline;*/
+    text-align: center;
+}
+dd {
+    margin-left: 1.5rem;
+}
+ul{
+    margin-left: 1rem;
+}
+#links{
+    margin-left: 0rem;
+}
