@@ -52,3 +52,23 @@ ul{
 #links{
     margin-left: 0rem;
 }
+figcaption {
+    font-size: 0.9rem;
+}
+#terrarialogo {
+    border-radius: 3.4rem;
+    box-shadow: 0rem 0.5rem 0.3rem Gray;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    text-decoration-line: underline;
+    color: rgb(64, 64, 255);
+}
+a:focus{
+    text-decoration-line: underline;
+    color: rgb(64, 64, 255);
+}
+    
