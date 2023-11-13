@@ -1,5 +1,4 @@
-# MyFirstProjectWebSite это супер-пупер сайт
-Это лютый сайт
+# MyFirstProjectWebSite
 
 int a = 4;
 
